@@ -13,7 +13,6 @@ Set de herramientas para el equipo de desarrollo. Se incluyen aquellas pensadas 
 
 `make {clean} all {release}`
 
-Donde: 
      * clean: Borra la biblioteca destino primero.
      * all: Compila todo en la biblioteca destino.
      * release: Salva la biblioteca y la envía al siguiente entorno (Dev -> Test -> Prod).
